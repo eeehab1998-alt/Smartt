@@ -1,0 +1,21 @@
+{
+  "name": "Smart Cart - رواد الغد",
+  "short_name": "Smart Cart",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1e3a8a",
+  "description": "نظام السلة الذكية - مدرسة روّاد الغد النموذجية أريحا",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
